@@ -1,3 +1,8 @@
 {
-  "item.realismreloaded.itemname": "Item Name"
+  "item.realismreloaded.itemname": "Item Name",
+
+  "block.realismreloaded.name_block": "Block of Name",
+  "block.realismreloaded.name2_block": "Block of Name2",
+
+  "itemGroup.modtab": "TAB tab"
 }
